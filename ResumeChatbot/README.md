@@ -15,6 +15,11 @@ The **AI Resume Chatbot** is an intelligent career assistant designed to answer 
 git clone https://github.com/MAN-2/AI-Projects.git
 cd AI-Projects/ResumeChatbot
 
+
+
+
+
+
 ## 🔮 Future Scope & Enhancements
 ### **🔊 Voice Functionality**
 Currently, the chatbot operates via text. A future upgrade could integrate **voice-based interaction**, allowing users to:
@@ -24,5 +29,5 @@ Currently, the chatbot operates via text. A future upgrade could integrate **voi
 
 Libraries like **SpeechRecognition** and **pyttsx3** can be incorporated for voice interaction.
 
-Known Error :: ** Can sometimes run duplicate instances of Streamlit UI and present multiple dialogs on first deployment . 
-  Administered fix: Refresh the Browser
+##Known Error :: Can sometimes run duplicate instances of Streamlit UI and present multiple dialogs on first deployment . 
+ ### Administered fix: Refresh the Browser

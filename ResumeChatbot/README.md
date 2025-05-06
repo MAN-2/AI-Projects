@@ -1,3 +1,4 @@
+
 # **AI Resume Chatbot (Powered by Gemini AI)**
 
 ## 📌 Project Overview
@@ -9,15 +10,17 @@ The **AI Resume Chatbot** is an intelligent career assistant designed to answer 
 - **Skill Enhancement Recommendations** – Provides resources to improve relevant skills.
 - **Career Path Suggestions** – Recommends job roles aligned with resume data.
 
+
+![Screenshot (423)](https://github.com/user-attachments/assets/e0a230e8-d115-4b33-80db-0e291c84618e)
+![Screenshot (424)](https://github.com/user-attachments/assets/78de01ac-e8dd-416e-af13-12c4ad3b3afd)
+![Screenshot (425)](https://github.com/user-attachments/assets/a8052895-59b1-4687-8e71-d370f992ea7e)
+
 ## 🛠️ Installation & Usage
 ### **1️⃣ Clone Repository**
 ```bash
 git clone https://github.com/MAN-2/AI-Projects.git
 cd AI-Projects/ResumeChatbot
-
-
-
-
+```
 
 
 ## 🔮 Future Scope & Enhancements
